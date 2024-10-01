@@ -89,9 +89,12 @@
     <li><strong>Conversion Rates:</strong> Similar to CTR, the Conversion Rate distribution is likely centered around the median (0.049) with a standard deviation (0.0287). This implies that most users fall within a specific conversion rate range. However, as with CTR, there might be users with exceptionally low or high conversion rates.</li>
 </ul>
 
-<h3><strong>Text Analysis Exploration (Top 15 & 50 User Interests)</strong></h3>
+<h3><strong>Text Analysis Exploration</strong></h3>
 
+<p><strong>Top 15 User Interests</strong></p>
 <img src="images/top_15_interest.png" alt="Top 15 User Interests">
+
+<p><strong>Top 50 User Interests (Word Cloud)</strong></p>
 <img src="images/common_words.png" alt="Common Words">
 
 <h2><strong>User Profiling and Segmentation for targeted ad campaigns</strong></h2>
